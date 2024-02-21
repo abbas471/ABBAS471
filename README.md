@@ -10,9 +10,17 @@
   -->
 
 
+    
 
+-
+    <b>Certifications </b> <br>
+    [Google Cyber Security Professional Certificate] () <br>
+    [ EC-Council Cybersecurity Attack and Defense Fundamentals ] (https://www.coursera.org/account/accomplishments/specialization/certificate/ET46AAUV2NTH) <br>
+    [Python for Cybersecurity] ()
+    [] ()
 
-- <b>Active Directory Home Lab</b>
+    
+   <b>Active Directory Home Lab</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
