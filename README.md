@@ -15,7 +15,7 @@
 -
     <b>Certifications </b> <br>
     [Google Cyber Security Professional Certificate] () <br>
-    [ EC-Council Cybersecurity Attack and Defense Fundamentals ] (https://www.coursera.org/account/accomplishments/specialization/certificate/ET46AAUV2NTH) <br>
+    [ EC-Council Cybersecurity Attack and Defense Fundamentals ]  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET46AAUV2NTH"> <a> <br>
     [Python for Cybersecurity] ()
     [] ()
 
