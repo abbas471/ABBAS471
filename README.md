@@ -14,10 +14,17 @@
 
 -
     <b>Certifications </b> <br>
-    [Google Cyber Security Professional Certificate] () <br>
-    [ EC-Council Cybersecurity Attack and Defense Fundamentals ]  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET46AAUV2NTH"> <a> <br>
-    [Python for Cybersecurity] ()
-    [] ()
+    <a href="url">[Google Cyber Security Professional Certificate]</a>
+    <br>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ET46AAUV2NTH">[EC-Council Cybersecurity Attack and Defense Fundamentals ]</a>
+    <br>
+    <a href="https://coursera.org/share/66eb23128d2a7340584b2d1a81df3db9">[Python for Cybersecurity]</a>
+    <br>
+    <a href="https://coursera.org/share/b8aba03a25e7eac1dfb2f9f5f9a70038">[Cybersecurity Attack and Defense Fundamentals]</a>
+    <br>
+
+    
+    
 
     
    <b>Active Directory Home Lab</b>
